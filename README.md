@@ -9,7 +9,7 @@ Sistema de diseño oficial de **Juan de la Cruz**, marroquinería artesanal prem
 - **Sede:** Mar del Plata, Argentina
 - **Trayectoria:** 10 años en el mercado
 - **E-commerce:** [juandelacruz.com.ar](https://juandelacruz.com.ar)
-- **Público:** Mujeres 30–45, segmento medio-alto
+- **Público:** Mujeres 30–55, segmento medio-alto
 
 ## Paleta
 
