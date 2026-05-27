@@ -1,0 +1,19 @@
+/* Juan de la Cruz — Design System Colors */
+
+:root {
+  --jdlc-background: #EFF0F3;
+  --jdlc-black:      #0D0D0D;
+  --jdlc-accent:     #23539A;
+  --jdlc-white:      #FFFFFF;
+}
+
+/*
+  GUÍA DE USO:
+  --jdlc-background : página, tarjetas, fondos de sección
+  --jdlc-black      : texto principal, headers, nav
+  --jdlc-accent     : CTAs, botones, links, highlights
+  --jdlc-white      : solo sobre fondos oscuros (#0D0D0D)
+  
+  NUNCA usar blanco puro como fondo de página.
+  El acento azul se usa con moderación — no en textos largos.
+*/

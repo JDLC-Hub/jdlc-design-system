@@ -1,0 +1,25 @@
+/* Juan de la Cruz — Design System Typography */
+
+:root {
+  --font-headline:  'Cormorant Garamond', Georgia, serif;
+  --font-body:      'EB Garamond', Georgia, serif;
+  --font-secondary: 'DM Sans', system-ui, sans-serif;
+  --font-display:   'GFS Didot', 'Didot', Georgia, serif;
+
+  --size-xl: 3.5rem;
+  --size-lg: 2.25rem;
+  --size-md: 1.5rem;
+  --size-sm: 1.125rem;
+  --size-xs: 0.875rem;
+
+  --weight-light:   300;
+  --weight-regular: 400;
+}
+
+/*
+  HEADLINE  → Cormorant Garamond Light: H1, H2, nombres de producto
+  BODY      → EB Garamond: descripciones, blog, párrafos
+  SECONDARY → DM Sans Light: nav, botones, precios, badges
+  DISPLAY   → GFS Didot: frases destacadas, citas, campañas
+  BRAND     → Lastica: solo para logo y nombre de marca
+*/
